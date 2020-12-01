@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Evrifaessa (♂), a Wikimedia volunteer who has some knowledge of Python and a little knowledge of JavaScript.
+I'm Evrifaessa (♂), a Wikimedia volunteer who has some knowledge of Python, PHP and JavaScript.
 
 I can speak Turkish at a native level, and English at an intermediate level.
 
