@@ -10,4 +10,6 @@ If you're looking for a project to contribute to, check out [FOSSBilling](https:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=evrifaessa&show_icons=true&count_private=true&theme=dark" alt="GitHub account statistics"/>
+<br /><br />
+👇🏻 I don't have much to see in my own user account, but here are some stuff
 </div>
